@@ -1,0 +1,12 @@
+{
+  "name": "ArcadeNebula",
+  "description": "A premium cyber-themed unblocked games portal with a real-time AI Game Genie sidekick, game curation, custom game imports, ratings, reviews, and interactive games.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

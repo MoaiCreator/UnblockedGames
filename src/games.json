@@ -1,0 +1,47 @@
+[
+  {
+    "id": "void-explorer",
+    "title": "Void Explorer",
+    "category": "Action",
+    "thumbnail": "space_shooter",
+    "description": "Navigate a starship through a dense asteroid field. Blast cosmic obstacles, collect plasma shields, and survive as the speed intensifies! Highly responsive controls and explosive retro visuals.",
+    "controls": "W/S/A/D or Arrows to Steer, Space to Shoot lasers.",
+    "url": "local-canvas"
+  },
+  {
+    "id": "neon-snake",
+    "title": "Neon Snake Ultra",
+    "category": "Arcade",
+    "thumbnail": "neon_snake",
+    "description": "Feed the cyber-snake glowing light orbs to grow is length. Avoid crashing into glowing neon boundaries or your own laser tail. Features fluid particle trails and level speeds.",
+    "controls": "Arrow keys or W/S/A/D to change direction.",
+    "url": "local-canvas"
+  },
+  {
+    "id": "game-2048",
+    "title": "2048 Premium",
+    "category": "Puzzle",
+    "thumbnail": "grid_puzzle",
+    "description": "Slide matching tiles on a grid to combine them. Unleash your logical planning to reach the elusive 2048 tile in this clean, dark-themed unblocked edition.",
+    "controls": "Arrow keys or Swipe to slide tiles.",
+    "url": "https://play2048.co"
+  },
+  {
+    "id": "retro-tetris",
+    "title": "Grid Block Classic",
+    "category": "Puzzle",
+    "thumbnail": "block_classic",
+    "description": "Rotate and place falling geometric tetrominoes to clear horizontal rows. High-speed, unblocked, pure retro block satisfaction.",
+    "controls": "A/D or Left/Right to slide, W or Up to rotate, S or Down to soft drop.",
+    "url": "https://tetris.com"
+  },
+  {
+    "id": "retro-pacman",
+    "title": "Chomp Man Arcade",
+    "category": "Retro",
+    "thumbnail": "chomp_man",
+    "description": "Guide a glowing circle through neon blue corridors, swallowing yellow pellets while evading sneaky, colorful ghosts. Grab power pellets to strike back!",
+    "controls": "W/S/A/D or Arrow Keys for quick turns.",
+    "url": "https://freepacman.org/"
+  }
+]
